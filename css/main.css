@@ -1,0 +1,37 @@
+body {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-size: 15px;
+	line-height: 20px;
+}
+
+img {
+	width: 100%;
+	max-width: 700px;	
+	margin: 10px auto;
+}
+
+li {
+	margin-bottom: 10px;
+}
+
+.wrapper {
+	margin: 30px 0;
+}
+
+.strong {
+	font-weight: 700;
+}
+
+h1,
+h2 {
+	text-align: center;
+	margin: 25px 50px;
+}
+
+.head__img,
+.section__display-inner-img {
+	text-align: center;
+}
+
